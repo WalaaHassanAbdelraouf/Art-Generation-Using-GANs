@@ -1,7 +1,7 @@
 # Art Generator - DCGAN
 
-A Generative Adversarial Network for generating new art.
-It uses a Deep Convolutional Generative Adversarial Network (DCGAN) to generate 64×64 RGB artwork.
+This project implements a Deep Convolutional Generative Adversarial Network (DCGAN) to generate original artwork inspired by a collection of famous paintings. The model is trained on resized artwork images (64×64 RGB), using two neural networks: a Generator that creates synthetic paintings and a Discriminator that distinguishes generated images from real artwork
+
 
 ## Project structure
 
